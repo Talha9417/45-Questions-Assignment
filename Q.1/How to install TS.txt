@@ -1,0 +1,16 @@
+
+Q.1: Install Node.js, TypeScript and VS Code on your computer. 
+
+Answer: 
+       
+        To install Node.js, TypeScript, and Visual Studio Code (VS Code) on a Windows machine, you can follow the steps below:
+
+  1. To install Node.js, you can download it from the official website (https
+://nodejs.org/en/). After downloading, follow the installation instructions provided by the installer.
+
+  2. To install TypeScript, open a terminal or command prompt window and run the following command:
+  => npm install typescript -g
+  You can also check its version that you have installed in your machine.For this you have to write this command on your cmd or command prompt:
+  => tsc -v
+
+  3. Download Visual Studio Code (VS Code) from the official website (https://code.visualstudio.com/) and follow the installation process.
