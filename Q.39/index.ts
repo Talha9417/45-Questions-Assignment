@@ -8,4 +8,4 @@ function city_country(city: string, country: string) {
 
 console.log(city_country("Lahore", "Pakistan")); // Should print "Lahore, Pakistan"
 console.log(city_country("New York City", "United States"));//Should print "New York City, United States"
-console.log(city_country("Tokyo","Japan"));//Should print "Tokyo, Japan"
+console.log(city_country("Makkah Mukarmah","Saudia Arabia"));//Should print "Tokyo, Japan"
